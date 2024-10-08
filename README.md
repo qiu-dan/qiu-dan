@@ -1,5 +1,7 @@
-## Hi there 👋
 #Project
+Precise Ages of Field Stars from White Dwarf Companions in Gaia DR2 
+https://iopscience.iop.org/article/10.3847/1538-4365/abe468/pdf
+data:https://vizier.cds.unistra.fr/viz-bin/VizieR?-source=J/ApJS/253/58
 <!--
 **qiu-dan/qiu-dan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
